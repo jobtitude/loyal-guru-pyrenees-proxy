@@ -2,7 +2,7 @@
   "name": "pyrenees_proxy",
   "description": "pyrenees proxy",
   "memory": 128,
-  "timeout": 15,
+  "timeout": 30,
   "role": "arn:aws:iam::770705722922:role/pyrenees_proxy_lambda_function",
   "environment": {}
 }
